@@ -1,0 +1,9 @@
+﻿  main.cpp
+  matrix.cpp
+C:\Users\Admin\Desktop\Class Matrix and Vector\Class Matrix and Vector\matrix.cpp(341): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\Desktop\Class Matrix and Vector\Class Matrix and Vector\matrix.cpp(345): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\Desktop\Class Matrix and Vector\Class Matrix and Vector\matrix.cpp(371): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Admin\Desktop\Class Matrix and Vector\Class Matrix and Vector\matrix.cpp(374): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+C:\Users\Admin\Desktop\Class Matrix and Vector\Class Matrix and Vector\matrix.cpp(39): warning C4172: возвращение адреса локальной или временной переменной : n
+  Class Matrix and Vector.vcxproj -> C:\Users\Admin\Desktop\Class Matrix and Vector\Debug\Class Matrix and Vector.exe
